@@ -42,7 +42,7 @@ const root = {
     return "Retornando o resultado."
   },
   parametro: ({valor}) => {
-    return {valor: "Seu parametro é : " + valor}
+    return {valor: "Seu parametro é : " + valor} 
   }
 };
 
